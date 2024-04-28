@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varios", "Varios\Varios.csproj", "{7F312F2D-55CD-46D0-BB52-A6C666754FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBolillero", "TestBolillero\TestBolillero.csproj", "{CEECF0ED-D283-440B-A963-38F232938BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F312F2D-55CD-46D0-BB52-A6C666754FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F312F2D-55CD-46D0-BB52-A6C666754FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F312F2D-55CD-46D0-BB52-A6C666754FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F312F2D-55CD-46D0-BB52-A6C666754FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEECF0ED-D283-440B-A963-38F232938BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEECF0ED-D283-440B-A963-38F232938BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEECF0ED-D283-440B-A963-38F232938BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEECF0ED-D283-440B-A963-38F232938BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
